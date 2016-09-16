@@ -14,7 +14,8 @@ from scipy import stats
 import statsmodels.formula.api as sm
 
 # SETUP
-
+M_path
+T_path
 os.getcwd()
 os.chdir('C:\\Users\\marc\\Dropbox\\private Dokumente\\Studium\\Master\\Courses\\Advances in Data Mining\\Assignment 1\\ml-1m')
 
